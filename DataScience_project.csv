@@ -1,0 +1,49 @@
+Timestamp,Score,Name,Meal Type,State,Gender,Waiting Time (approx),Avg Amount paid..,Health Issues(if any),Age,Veg or Non Veg,Food,Payment Method,Spicy..?
+10/29/2023 21:30:48,,Yerimaku Bhavyatara ,Dinner,AP,Female,10 - 20 mins,80,None,20,Veg,"Dosa, Puri, Vada",Digital,
+10/29/2023 21:31:06,,Vishnu ,Breakfast,AP,Male,20 - 30 mins,100,None,21,Non Veg,"Dosa, Puri, Vada",Digital,yes
+10/29/2023 22:17:50,,Jeela,Dinner,Telangana,.,20 - 30 mins,10000,BP,99,Non Veg,"Dosa, Puri, Vada",Digital,
+10/29/2023 22:40:00,,Haran Ritvick ,Breakfast,AP,Male,10 - 20 mins,100,None,20,Non Veg,"Dosa, Puri, Vada",Digital,
+10/29/2023 22:44:45,,Hemanth Kumar,Lunch,AP,Male,0 - 10 mins,500,None,19,Non Veg,"Dosa, Puri, Vada",Digital,
+10/29/2023 22:46:19,,Harsha ,Breakfast,Telangana,Male,20 - 30 mins,40,None,19,Veg,"Dosa, Puri, Vada",Digital,
+10/29/2023 22:49:39,,Harsha Vardhan,Lunch,Telangana,Male,10 - 20 mins,80,None,19,Veg,"Dosa, Puri, Vada",Digital,
+10/29/2023 22:52:39,,B.M.Saish,Breakfast,AP,Male,10 - 20 mins,50,None,18,Non Veg,"Dosa, Puri, Vada",Digital,No
+10/29/2023 23:00:02,,Sravya Ch,Breakfast,AP,Female,0 - 10 mins,40,None,19,Veg,"Dosa, Puri, Vada",,Yes
+10/29/2023 23:24:16,,Rishikesh,Breakfast,AP,Male,0 - 10 mins,200,None,18,Veg,"Dosa, Puri, Vada",Digital,Yes
+10/29/2023 23:27:06,,Ruthvik ,Lunch,Karnataka,Male,10 - 20 mins,90,None,20,Non Veg,"Dosa, Puri, Vada",Digital,No
+10/29/2023 23:27:27,,Venkat,Breakfast,Telangana,Male,10 - 20 mins,40,None,21,Non Veg,"Dosa, Puri, Vada",Digital,No
+10/29/2023 23:28:47,,Sundar,Breakfast,Tamil Nadu,,10 - 20 mins,70,None,19,Veg,"Dosa, Puri, Vada",Digital,No
+10/29/2023 23:34:02,,S Rahul ,Breakfast,AP,Male,0 - 10 mins,100,None,19,Non Veg,"Dosa, Puri, Vada",Digital,Yes
+10/29/2023 23:38:51,,Nissie Prashamsa,Breakfast,Telangana,Female,20 - 30 mins,100,None,22,Non Veg,"Dosa, Puri, Vada",Digital,No
+10/29/2023 23:57:56,,Shankar,Breakfast,Telangana,Male,0 - 10 mins,100,None,19,Veg,"Dosa, Puri, Vada",Digital,Yes
+10/30/2023 0:03:58,,Devansh Lingamaneni ,Snacks,AP,Male,10 - 20 mins,300,None,20,Non Veg,Chicken Fried Rice,Digital,Yes
+10/30/2023 7:26:24,,Anjan,Lunch,Tamil Nadu,Male,10 - 20 mins,50,None,20,Veg,"Dosa, Noodles",Digital,No
+10/30/2023 7:53:18,,K.Vishwagna,Dinner,Telangana,Female,10 - 20 mins,40,None,19,Veg,Dosa,Digital,No
+10/30/2023 8:39:22,,H,Snacks,others,.,20 - 30 mins,1000000,"Sugar, BP, None",75,Non Veg,"Dosa, Idli, Puri, Vada, Noodles, Veg Fried Rice, Paratha, Rava Dosa, Veg Biryani, Chicken Biryani, Chicken Fried Rice, Curd Rice, Meals, Pongal, Lemon Rice, Gobi Manchuria, Chicken Manchuria, Gobi Fried Rice, Chicken Lollypop",Cash,No
+10/30/2023 11:17:31,,Abhi,Dinner,AP,Male,10 - 20 mins,100,None,19,Non Veg,"Dosa, Puri, Noodles, Chicken Fried Rice, Chicken Manchuria",Digital,No
+10/30/2023 11:21:18,,Siddesh,Dinner,AP,Male,10 - 20 mins,80,None,20,Veg,"Dosa, Idli, Puri, Vada, Noodles, Veg Fried Rice, Paratha, Rava Dosa, Veg Biryani, Curd Rice, Meals, Pongal, Lemon Rice, Gobi Manchuria, Gobi Fried Rice",Digital,Yes
+10/30/2023 11:37:37,,Srinivas,Dinner,AP,Male,10 - 20 mins,100,None,20,Non Veg,Chicken Fried Rice,Digital,Yes
+10/30/2023 11:40:10,,A. Chandra Kiran ,Dinner,AP,Male,10 - 20 mins,100,None,20,Non Veg,"Dosa, Noodles, Veg Fried Rice, Rava Dosa, Chicken Biryani, Chicken Fried Rice, Gobi Manchuria, Chicken Manchuria, Gobi Fried Rice, Chicken Lollypop",Digital,Yes
+10/30/2023 11:43:56,,Cheppanu,Dinner,AP,Male,0 - 10 mins,100,None,19,Non Veg,"Noodles, Gobi Fried Rice",Digital,Yes
+10/30/2023 11:48:31,,Ganesh,Breakfast,AP,Male,0 - 10 mins,70,None,19,Veg,"Dosa, Puri",Digital,Yes
+10/30/2023 11:56:21,,Harsha kapa,Dinner,AP,Male,10 - 20 mins,100,None,19,Non Veg,"Noodles, Chicken Biryani, Chicken Lollypop",Digital,Yes
+10/30/2023 11:57:13,,Anvesh,Breakfast,AP,Male,10 - 20 mins,40,None,19,Non Veg,"Dosa, Noodles, Veg Fried Rice, Chicken Biryani, Chicken Fried Rice, Pongal, Lemon Rice, Gobi Manchuria, Chicken Manchuria, Chicken Lollypop",Digital,No
+10/30/2023 13:15:42,,Meena Kumar,Breakfast,Tamil Nadu,Female,20 - 30 mins,60,None,25,Veg,"Idli, Pongal, Dosa",Cash,No
+10/30/2023 13:45:28,,Varun Reddy,Lunch,Telangana,Male,30 - 40 mins,120,None,27,Non Veg,"Biryani, Chicken Curry, Naan",Digital,Yes
+10/30/2023 14:02:10,,Swathi,Dinner,Karnataka,Female,10 - 20 mins,80,None,24,Veg,"Roti, Vegetable Curry, Pulav",Cash,No
+10/30/2023 14:25:56,,Praveen,Snacks,AP,Male,0 - 10 mins,40,None,26,Non Veg,"Samosa, Pakora, Chai",Cash,No
+10/30/2023 14:45:33,,Kavitha Reddy,Breakfast,Telangana,Female,20 - 30 mins,70,None,28,Veg,"Upma, Dosa, Poha",Digital,No
+10/30/2023 15:10:12,,Suresh,Lunch,Tamil Nadu,Male,20 - 30 mins,90,None,30,Veg,"Rice, Sambar, Curry",Cash,No
+10/30/2023 15:33:47,,Prashant,Dinner,Karnataka,Male,10 - 20 mins,100,None,29,Non Veg,"Chapati, Chicken Curry, Biryani",Digital,Yes
+10/30/2023 15:50:21,,Nandini,Breakfast,AP,Female,0 - 10 mins,50,None,27,Veg,"Puri, Sabji, Upma",Cash,No
+10/30/2023 16:15:08,,Pradeep,Dinner,Telangana,Male,10 - 20 mins,80,None,31,Non Veg,"Rice, Mutton Curry, Dal",Digital,Yes
+10/30/2023 16:40:55,,Aparna,Snacks,AP,Female,20 - 30 mins,60,None,25,Veg,"Samosa, Pakora, Tea",Cash,No
+10/30/2023 17:05:33,,Rajesh,Breakfast,AP,Male,20 - 30 mins,70,None,29,Non Veg,"Dosa, Chicken Fry",Cash,Yes
+10/30/2023 17:30:18,,Sneha,Lunch,Tamil Nadu,Female,10 - 20 mins,90,None,26,Veg,"Rice, Sambar, Curry",Cash,No
+10/30/2023 17:55:00,,Alok,Dinner,Karnataka,Male,10 - 20 mins,100,None,30,Non Veg,"Chapati, Paneer Curry, Biryani",Digital,Yes
+10/30/2023 18:20:14,,Shreya,Snacks,AP,Female,20 - 30 mins,80,None,28,Veg,"Pakora, Tea",Cash,No
+10/30/2023 18:45:28,,Kiran,Breakfast,AP,Male,0 - 10 mins,40,None,32,Non Veg,"Idli, Chicken Fry",Cash,Yes
+10/30/2023 19:10:42,,Reena,Lunch,Tamil Nadu,Female,10 - 20 mins,60,None,25,Veg,"Chapati, Veg Curry, Rice",Cash,No
+10/30/2023 19:35:56,,Vijay,Dinner,Karnataka,Male,10 - 20 mins,80,None,29,Non Veg,"Biryani, Mutton Curry, Naan",Digital,Yes
+10/30/2023 20:00:10,,Swetha,Snacks,AP,Female,20 - 30 mins,70,None,26,Veg,"Samosa, Chai",Cash,No
+10/30/2023 20:25:24,,Sanjay,Breakfast,AP,Male,10 - 20 mins,90,None,28,Non Veg,"Dosa, Chicken Curry",Cash,Yes
+10/30/2023 20:50:38,,Rani,Lunch,Tamil Nadu,Female,0 - 10 mins,50,None,30,Veg,"Rice, Sambar, Curry",Cash,No
